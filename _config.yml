@@ -1,0 +1,8 @@
+title: Eccton.GitHub.io
+description: Eccton GitHub
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
